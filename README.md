@@ -43,11 +43,7 @@ Currently focused on strengthening my programming fundamentals, exploring AI/ML,
 <p align="center">
   <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%">
 </p>
-## 🔥 GitHub Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ShamikaDishan&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
 ---
 
 ### Currently Exploring
