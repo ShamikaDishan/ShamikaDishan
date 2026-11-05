@@ -41,12 +41,7 @@ Currently focused on strengthening my programming fundamentals, exploring AI/ML,
 ### GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShamikaDishan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShamikaDishan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ShamikaDishan&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%">
 </p>
 
 ---
