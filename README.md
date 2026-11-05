@@ -1,61 +1,79 @@
-👋 Hey, I'm Shamika Dishan
-🤖 Computer Science & AI Student | Aspiring AI/ML Engineer
-I'm a Computer Science and Artificial Intelligence student at NIBM, passionate about programming, intelligent systems, and exploring the possibilities of Artificial Intelligence.
+# Hi, I'm Shamika Dishan
 
-I'm continuously learning, improving my problem-solving skills, and exploring how technology can be used to build meaningful solutions.
+### Computer Science & Artificial Intelligence Student | Aspiring AI/ML Engineer
 
-🧠 About Me
-🎓 Computer Science & Artificial Intelligence student at NIBM
+I'm a Computer Science and Artificial Intelligence student at **NIBM, Sri Lanka**, interested in building intelligent systems and exploring how technology can solve real-world problems.
 
-🤖 Interested in Artificial Intelligence and Machine Learning
+Currently focused on strengthening my programming fundamentals, exploring AI/ML, and developing practical software projects while continuously learning and improving.
 
-💻 Programming with Python, Java, C++, and C
+---
 
-🌱 Continuously learning and expanding my technical skills
+### About Me
 
-🎯 Aspiring to build intelligent systems and impactful software
+- Studying Computer Science and Artificial Intelligence at NIBM.
+- Interested in Artificial Intelligence, Machine Learning, and Software Engineering.
+- Exploring programming through Python, Java, C++, and C.
+- Passionate about problem-solving and learning new technologies.
+- Working towards building practical and meaningful software solutions.
 
-🚀 Exploring the intersection of software development and AI
+---
 
-🛠️ Tech Stack
-💻 Programming Languages
+### Tech Stack
 
+**Programming Languages**
 
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c" />
+</p>
 
+**Tools & Technologies**
 
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-🧩 Areas of Interest
+**Areas of Interest**
 
+`Artificial Intelligence` · `Machine Learning` · `Software Development` · `Problem Solving`
 
+---
 
+### GitHub Analytics
 
-🔧 Development Tools
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShamikaDishan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShamikaDishan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ShamikaDishan&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
 
+---
 
-📊 GitHub Statistics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShamikaDishan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Shamika's GitHub Stats" /> </p>
+### Currently Exploring
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShamikaDishan&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" /> </p>
+- Strengthening Python and Java programming skills.
+- Learning the fundamentals of Artificial Intelligence and Machine Learning.
+- Exploring algorithms, data structures, and problem-solving.
+- Building projects and gaining practical development experience.
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=ShamikaDishan&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" /> </p>
+---
 
-🌱 Current Focus
-Strengthening programming fundamentals
+### Connect
 
-Exploring Artificial Intelligence and Machine Learning
+<p>
+  <a href="https://github.com/ShamikaDishan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-Improving problem-solving and software development skills
+---
 
-Learning through practical coding and personal projects
+<p align="center">
+  <i>"Curiosity drives innovation. Every line of code is a step forward."</i>
+</p>
 
-🌐 Find Me on GitHub
-<p align="left"> <a href="https://github.com/ShamikaDishan"> <img src="https://img.shields.io/badge/GitHub-ShamikaDishan-181717?style=for-the-badge&logo=github" alt="GitHub Profile" /> </a> </p>
-
-<p align="center"> <i>"Building knowledge, one line of code at a time."</i> 💻 </p>
-
-<p align="center"> ⭐ Thanks for visiting my profile! </p>
-
-
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShamikaDishan&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" />
+</p>
